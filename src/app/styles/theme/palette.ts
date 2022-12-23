@@ -18,6 +18,7 @@ export const ColorPalette = {
   blue: {
     50: "#EDF8FF",
     500: "#0470C8",
+    700: "#0c344d",
   },
   green: {
     50: "#EDFFFD",
@@ -26,6 +27,8 @@ export const ColorPalette = {
   orange: {
     50: "#FFF6ED",
     500: "#F27D07",
+    700: "#f5be2a",
+    900: "#f5782a",
   },
   red: {
     50: "#FFF2F8",

@@ -1,1 +1,5 @@
-export interface iMainLayoutProps {}
+import { ReactElement } from "react";
+
+export interface iMainLayoutProps {
+  children: ReactElement;
+}
